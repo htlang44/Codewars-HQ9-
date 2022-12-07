@@ -1,5 +1,7 @@
-# Codewars-HQ9-/n
-Codewars HQ9+ Challenge lvl8/n
+# Codewars-HQ9-
+Codewars HQ9+ Challenge lvl8
+
+
 You task is to implement an simple interpreter for the notorious esoteric language HQ9+ that will work for a single character input:
 
 If the input is 'H', return 'Hello World!'
